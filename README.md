@@ -5,7 +5,7 @@ It cleans text, extracts meaningful words, generates random sentences, and class
 
 ## 🚀 Features
 - 📌 Text preprocessing
-- 📌 Sentiment classification without Mashine Learning
+- 📌 Sentiment classification without Machine Learning
 - 📌 Visualization of sentiment distribution
 - 📌 Works with custom datasets
 
